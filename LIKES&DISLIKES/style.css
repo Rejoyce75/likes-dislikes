@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(231, 218, 198);
+}
+
+.sub-heading{
+    color: rgb(0, 47, 255);
+    font-size: 20px;
+    font-style: italic;
+}
+#heading{
+    color: rgb(49, 51, 53);
+    font-weight: 200;
+    font-style: normal;
+    text-align: center;
+}
+#under{
+    background-color: rgb(151, 165, 165);
+    font-size: 15px;
+}
+.lit{
+    color: red;
+}
